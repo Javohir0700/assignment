@@ -1,0 +1,8 @@
+prefix=/home/javohir/catkin_ws/assignment/devel
+
+Name: assignment
+Description: Description of assignment
+Version: 0.0.0
+Cflags: -I/home/javohir/catkin_ws/assignment/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
